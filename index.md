@@ -22,7 +22,7 @@ Branch and employee productivity evaluation.
 
 ## Portfolio Details
 
-[View Full README](README.md)
+[View Portfolio Details](portfolio.html)
 
 ## License
 
