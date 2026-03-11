@@ -2,7 +2,9 @@
 
 Retail Data Analyst
 
-Welcome to my Data Analytics Portfolio.
+## Dashboard Preview
+
+![Retail Dashboard](Dashboard_interface.png)
 
 ## Projects
 
@@ -17,3 +19,11 @@ Shelf space productivity analysis.
 
 ### Retail Productivity Analysis
 Branch and employee productivity evaluation.
+
+## Portfolio Details
+
+[View Full README](README.md)
+
+## License
+
+[MIT License](LICENSE)
