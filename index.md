@@ -2,6 +2,8 @@
 
 Retail Data Analyst
 
+<img src="profile.jpg" width="180">
+
 ## Dashboard Preview
 
 ![Retail Dashboard](Dashboard_interface.png)
