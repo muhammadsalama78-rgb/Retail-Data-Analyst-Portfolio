@@ -2,9 +2,9 @@
 
 <img src="profile.jpg.png" width="180" style="border-radius:50%">
 
-# Muhammad Elbishbieshy
+ Muhammad Elbishbieshy
 
-### Retail Data Analyst
+## Retail Data Analyst
 
 Retail Data Analytics | Power BI | Excel | SQL | Business Intelligence
 
