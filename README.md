@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="profile.jpg.png" width="170" style="border-radius:50%">
 
 <div align="center">
 
