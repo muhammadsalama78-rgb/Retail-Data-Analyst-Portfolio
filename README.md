@@ -1,72 +1,101 @@
-# Muhammad Elbishbieshy – Retail Data Analyst Portfolio
+<div align="center">
 
-<img src="profile.jpg.png" width="180">
+<img src="profile.png" width="170" style="border-radius:50%">
+
+# Muhammad Elbishbieshy
+
+### Retail Data Analyst
+
+Retail Data Analytics | Power BI | Excel | SQL | Business Intelligence
+
+</div>
+
+---
+
+## About Me
 
 Welcome to my **Retail Data Analytics Portfolio**.
 
-I specialize in analyzing retail performance data and transforming raw data into **actionable insights** using **Power BI, Excel, SQL, and Data Visualization techniques** to support strategic business decisions.
+I specialize in analyzing retail performance data and transforming raw data into **actionable insights** using **Power BI, Excel, SQL, and data visualization techniques** to support strategic business decisions.
+
+My focus is on helping businesses improve **sales performance, productivity, and operational efficiency** through data-driven insights.
 
 ---
 
-# Skills
+## Skills
 
-• Retail Data Analysis
-• Business Intelligence & Reporting
-• Dashboard Development
-• Data Visualization
-• KPI & Performance Tracking
-• Sales & Productivity Analysis
+* Retail Data Analysis
+* Business Intelligence & Reporting
+* Dashboard Development
+* Data Visualization
+* KPI & Performance Tracking
+* Sales & Productivity Analysis
 
 ### Tools
 
-• Power BI
-• Microsoft Excel
-• SQL
-• Power Query
-• DAX
+* Power BI
+* Microsoft Excel
+* SQL
+* Power Query
+* DAX
 
 ---
 
-# Projects
+## Dashboard Preview
 
-## Retail Sales Performance Dashboard
+<img src="Dashboard_interface.png" width="900">
+
+---
+
+## Projects
+
+### Retail Sales Performance Dashboard
 
 **Tools:** Power BI
 
-**Overview:**
-Interactive dashboard designed to analyze retail sales performance across multiple branches, product categories, and time periods.
+Interactive dashboard analyzing retail sales performance across branches, products, and time periods.
 
 **Key Insights**
 
-• Identified top-performing product categories
-• Analyzed branch contribution to total revenue
-• Monitored monthly sales trends and seasonality
-• Evaluated customer basket behavior
+* Identified top-performing product categories
+* Analyzed branch contribution to total revenue
+* Monitored monthly sales trends and seasonality
+* Evaluated customer basket behavior
 
 ---
 
-## Branch Performance Analysis
+### Branch Performance Analysis
 
 **Tools:** Excel / Power Pivot
 
-**Overview:**
 Retail branch performance analysis including KPI tracking, growth comparison, and branch ranking.
 
 **Key Insights**
 
-• Identified top-performing branches
-• Compared sales growth across locations
-• Monitored operational KPIs
+* Identified top-performing branches
+* Compared sales growth across locations
+* Monitored operational KPIs
 
 ---
 
-## Product Category Analysis
+### Product Category Analysis
 
 **Tools:** Power BI
 
-**Overview:**
-Category-level analysis to understand sales distribution and product demand patterns.
+Category-level analysis to understand product demand patterns and category sales contribution.
 
 **Key Insights**
 
-• Category revenue
+* Category revenue contribution analysis
+* Identification of high-demand products
+* Sales distribution across product categories
+
+---
+
+## Contact
+
+LinkedIn
+https://www.linkedin.com/in/muhammad-elbishbieshy-774113111/
+
+Email
+[muhammadsalama78@gmail.com](mailto:muhammadsalama78@gmail.com)
