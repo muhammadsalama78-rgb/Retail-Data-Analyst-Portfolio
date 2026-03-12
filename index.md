@@ -2,7 +2,7 @@
 
 Retail Data Analyst
 
-<img src="profile.jpg" width="180">
+<img src="profile.jpg.png" width="180">
 
 ## Dashboard Preview
 
