@@ -1,5 +1,6 @@
 # Muhammad Elbishbieshy – Retail Data Analyst Portfolio
-<img src="profile.jpg" width="180">
+
+<img src="profile.jpg.png" width="180">
 
 Welcome to my **Retail Data Analytics Portfolio**.
 
